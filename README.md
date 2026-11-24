@@ -68,8 +68,8 @@ WebProje/
 Gereksinimler: Node.js ve npm.
 
 ```bash
-git clone https://github.com/kusVeysel/SoftwarePersona.git
-cd SoftwarePersona/WebProje
+git clone https://github.com/kusVeysel/WebProje.git
+cd WebProje
 npm install
 npm run dev
 ```
@@ -78,7 +78,12 @@ Geliştirme sunucusu başladığında terminalde gösterilen yerel adresi taray�
 
 ## Yapay zeka kullanımı
 
-Yapay zekadan dokümantasyon aşamasında bu README'nin taslağını oluşturmak ve proje açıklamasını düzenlemek için destek alınmıştır. İçerik, uygulamanın mevcut özellikleri ve kaynak koduyla karşılaştırılarak gözden geçirilmiştir. Yapay zeka uygulamanın çalışma zamanında kullanılmaz; uygulamada yapay zeka destekli bir özellik veya yapay zeka servisi entegrasyonu bulunmaz.
+Genel proje sayfasının kemik yapısının oluşmasında kullanılmıştır. Yaptığı değişikler teker teker incelenmiş **basit işlerde**(buton rengi değiştirme vs.) **kesinlikle** kullanılmamıştır.
+Yapay zekadan dokümantasyon aşamasında bu README'nin taslağını oluşturmak ve proje açıklamasını düzenlemek için destek alınmıştır. İçerik, uygulamanın mevcut özellikleri ve kaynak koduyla karşılaştırılarak gözden geçirilmiştir. 
+
+- Gemini
+- Copilot
+    kullanılmıştır
 
 ## Npm komutları
 
